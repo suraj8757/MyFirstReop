@@ -8,4 +8,3 @@ This sis fivth line
 This is the sixth line
 This is the seventh line
 ------------------------
-Ha main to shai hu na
